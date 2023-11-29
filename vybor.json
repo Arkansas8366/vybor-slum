@@ -1,0 +1,1654 @@
+{
+    "Objects": [
+        {
+            "name": "StaticObj_Slum_Roof6",
+            "pos": [
+                3739.24658203125,
+                312.5129699707031,
+                8956.712890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Slum_House7",
+            "pos": [
+                3700.432861328125,
+                312.2409973144531,
+                8980.955078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Slum_House4",
+            "pos": [
+                3730.8349609375,
+                312.5602722167969,
+                8934.2861328125
+            ],
+            "ypr": [
+                -107.40509796142578,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Slum_House3",
+            "pos": [
+                3918.462890625,
+                313.8727722167969,
+                8859.6103515625
+            ],
+            "ypr": [
+                -93.34527587890625,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Slum_House2",
+            "pos": [
+                3925.49951171875,
+                314.03778076171877,
+                8858.7841796875
+            ],
+            "ypr": [
+                -130.2362823486328,
+                0.0,
+                0.0
+            ],
+            "scale": 0.999996542930603,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Slum_Roof2",
+            "pos": [
+                3922.30126953125,
+                313.5274658203125,
+                8856.498046875
+            ],
+            "ypr": [
+                50.78464889526367,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985098838806,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile2",
+            "pos": [
+                3904.585205078125,
+                311.54150390625,
+                8829.56640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3905.2158203125,
+                311.66668701171877,
+                8832.220703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile4",
+            "pos": [
+                3907.20849609375,
+                311.60784912109377,
+                8828.30859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Ikarus",
+            "pos": [
+                3926.758056640625,
+                312.5909423828125,
+                8820.669921875
+            ],
+            "ypr": [
+                105.73271942138672,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_orange",
+            "pos": [
+                3913.320068359375,
+                311.9558410644531,
+                8851.419921875
+            ],
+            "ypr": [
+                0.0,
+                1.9999998807907105,
+                0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_WoodBlock",
+            "pos": [
+                3914.404541015625,
+                312.02923583984377,
+                8849.06640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_TirePile_Group",
+            "pos": [
+                3912.06591796875,
+                315.9180908203125,
+                8846.3623046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile1",
+            "pos": [
+                3914.587646484375,
+                312.4017028808594,
+                8851.076171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Rubble_DirtPile_Medium1",
+            "pos": [
+                3915.3251953125,
+                312.084228515625,
+                8849.4326171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile8",
+            "pos": [
+                3912.415771484375,
+                311.9148254394531,
+                8844.6142578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile1",
+            "pos": [
+                3920.49951171875,
+                311.5249938964844,
+                8836.8779296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile3",
+            "pos": [
+                3920.2431640625,
+                311.52471923828127,
+                8838.103515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile2",
+            "pos": [
+                3919.5556640625,
+                311.4966125488281,
+                8836.23046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3980.3212890625,
+                316.9277038574219,
+                8804.5029296875
+            ],
+            "ypr": [
+                33.26499557495117,
+                66.99372100830078,
+                10.999999046325684
+            ],
+            "scale": 0.9999979138374329,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3980.331298828125,
+                318.7427062988281,
+                8804.79296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3935.76806640625,
+                315.8297119140625,
+                8816.3447265625
+            ],
+            "ypr": [
+                33.264991760253909,
+                66.99343872070313,
+                10.999998092651368
+            ],
+            "scale": 0.9999978542327881,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3935.778076171875,
+                317.6446533203125,
+                8816.634765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3899.56982421875,
+                315.8213806152344,
+                8827.3369140625
+            ],
+            "ypr": [
+                33.26494216918945,
+                66.98892974853516,
+                10.999996185302735
+            ],
+            "scale": 0.9999977350234985,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3899.579833984375,
+                317.63641357421877,
+                8827.626953125
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3857.700439453125,
+                315.3414306640625,
+                8846.662109375
+            ],
+            "ypr": [
+                33.26494216918945,
+                66.98863983154297,
+                10.999995231628418
+            ],
+            "scale": 0.9999977350234985,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3857.71044921875,
+                317.1565246582031,
+                8846.9521484375
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3814.576904296875,
+                314.270751953125,
+                8870.390625
+            ],
+            "ypr": [
+                33.26493835449219,
+                66.98833465576172,
+                10.999993324279786
+            ],
+            "scale": 0.9999976754188538,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3814.5869140625,
+                316.0859069824219,
+                8870.6806640625
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3799.65087890625,
+                314.2790832519531,
+                8878.423828125
+            ],
+            "ypr": [
+                33.26493835449219,
+                66.98802185058594,
+                10.999992370605469
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3799.660888671875,
+                316.09423828125,
+                8878.7138671875
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3764.394775390625,
+                314.2958679199219,
+                8898.6484375
+            ],
+            "ypr": [
+                33.26493835449219,
+                66.9876937866211,
+                10.999991416931153
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3764.40478515625,
+                316.1109619140625,
+                8898.9384765625
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3741.011474609375,
+                314.26531982421877,
+                8907.7138671875
+            ],
+            "ypr": [
+                33.26493835449219,
+                66.98737335205078,
+                10.999990463256836
+            ],
+            "scale": 0.9999976754188538,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3741.021484375,
+                316.0803527832031,
+                8908.00390625
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3697.24658203125,
+                314.31536865234377,
+                8927.5380859375
+            ],
+            "ypr": [
+                33.26493453979492,
+                66.98705291748047,
+                10.999990463256836
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3697.256591796875,
+                316.1304016113281,
+                8927.828125
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3668.953369140625,
+                314.26727294921877,
+                8947.802734375
+            ],
+            "ypr": [
+                33.26493453979492,
+                66.98673248291016,
+                10.999990463256836
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3668.96337890625,
+                316.0823669433594,
+                8948.0927734375
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_DeerSkeleton_Skull",
+            "pos": [
+                3637.0517578125,
+                314.25909423828127,
+                8977.97265625
+            ],
+            "ypr": [
+                33.26493453979492,
+                66.98640441894531,
+                10.999990463256836
+            ],
+            "scale": 0.999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Hanged_doctor",
+            "pos": [
+                3637.061767578125,
+                316.07427978515627,
+                8978.2626953125
+            ],
+            "ypr": [
+                -0.000053405754442792389,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3907.93896484375,
+                311.1168212890625,
+                8832.2373046875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3914.10888671875,
+                311.35137939453127,
+                8843.2138671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3920.06201171875,
+                312.02838134765627,
+                8857.3955078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_Chair_Plastic",
+            "pos": [
+                3921.92333984375,
+                312.62420654296877,
+                8858.1875
+            ],
+            "ypr": [
+                104.3853759765625,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_firetruck",
+            "pos": [
+                3798.103271484375,
+                310.78741455078127,
+                8809.609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_hospital_transport_bed",
+            "pos": [
+                3797.340087890625,
+                310.67999267578127,
+                8815.400390625
+            ],
+            "ypr": [
+                -144.98397827148438,
+                1.5,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Forest_HumanSkeleton",
+            "pos": [
+                3797.204345703125,
+                311.5009460449219,
+                8815.1396484375
+            ],
+            "ypr": [
+                -157.52398681640626,
+                13.999999046325684,
+                0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ZmbM_ParamedicNormal_Red",
+            "pos": [
+                3798.342529296875,
+                310.6599426269531,
+                8814.3095703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "ZmbF_ParamedicNormal_Green",
+            "pos": [
+                3796.14892578125,
+                310.68035888671877,
+                8815.447265625
+            ],
+            "ypr": [
+                88.45404052734375,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Slum_House4",
+            "pos": [
+                3745.1806640625,
+                308.7796630859375,
+                8782.10546875
+            ],
+            "ypr": [
+                115.86739349365235,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999978542327881,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Slum_Roof6",
+            "pos": [
+                3747.91650390625,
+                308.9032287597656,
+                8788.3125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_Mining_HaulTruck",
+            "pos": [
+                3613.285400390625,
+                313.7648620605469,
+                8996.95703125
+            ],
+            "ypr": [
+                -14.560397148132325,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile5",
+            "pos": [
+                3616.026611328125,
+                311.7417297363281,
+                9006.197265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3613.756103515625,
+                311.6478576660156,
+                9007.1201171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile3",
+            "pos": [
+                3614.04736328125,
+                311.3980407714844,
+                9004.890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile1",
+            "pos": [
+                3613.08154296875,
+                311.6072998046875,
+                9005.3994140625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3611.98046875,
+                311.5827331542969,
+                9006.6767578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3611.559326171875,
+                311.5621643066406,
+                9004.630859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3614.298095703125,
+                312.544189453125,
+                9006.01171875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3612.0400390625,
+                312.39202880859377,
+                9005.9599609375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3615.570068359375,
+                311.7358093261719,
+                9008.3603515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3611.63623046875,
+                312.9466857910156,
+                9006.4443359375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Rubble_DirtPile_Medium2",
+            "pos": [
+                3614.96337890625,
+                311.5518798828125,
+                9010.4833984375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile1",
+            "pos": [
+                3615.786865234375,
+                315.2579040527344,
+                9000.685546875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile3",
+            "pos": [
+                3616.586669921875,
+                314.87066650390627,
+                8998.72265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile2",
+            "pos": [
+                3615.627685546875,
+                315.5642395019531,
+                9002.2353515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile4",
+            "pos": [
+                3613.080078125,
+                315.47076416015627,
+                9001.4501953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile4",
+            "pos": [
+                3611.487060546875,
+                315.26287841796877,
+                9000.296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile4",
+            "pos": [
+                3613.770751953125,
+                315.1011047363281,
+                8999.1083984375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile4",
+            "pos": [
+                3612.248291015625,
+                314.90338134765627,
+                8997.845703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile4",
+            "pos": [
+                3610.99169921875,
+                315.7102966308594,
+                9001.9013671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Dead_pile3",
+            "pos": [
+                3613.389892578125,
+                315.8800964355469,
+                9002.9404296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3610.812255859375,
+                311.5422668457031,
+                9007.2587890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Garbage_Pile6",
+            "pos": [
+                3610.876708984375,
+                312.2589416503906,
+                9006.791015625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Slum_Roof3",
+            "pos": [
+                3668.27001953125,
+                316.6889953613281,
+                9001.9296875
+            ],
+            "ypr": [
+                -140.42300415039063,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Road_Sidewalk_Stairs",
+            "pos": [
+                3672.528564453125,
+                312.308837890625,
+                8999.498046875
+            ],
+            "ypr": [
+                128.8071746826172,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs_nolc",
+            "pos": [
+                3663.295654296875,
+                310.4329833984375,
+                8990.689453125
+            ],
+            "ypr": [
+                -138.19622802734376,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Slum_Roof5",
+            "pos": [
+                3652.25048828125,
+                319.8608703613281,
+                8979.8955078125
+            ],
+            "ypr": [
+                40.172882080078128,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983310699463,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Slum_Roof5",
+            "pos": [
+                3657.95849609375,
+                319.9129333496094,
+                8986.7646484375
+            ],
+            "ypr": [
+                40.172882080078128,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983310699463,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_Wall_Tin6_2_4",
+            "pos": [
+                3650.89404296875,
+                318.41265869140627,
+                8975.2724609375
+            ],
+            "ypr": [
+                40.01477813720703,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999980926513672,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_Wall_Tin6_2_4",
+            "pos": [
+                3648.02880859375,
+                318.40753173828127,
+                8977.671875
+            ],
+            "ypr": [
+                40.01477813720703,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999980926513672,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_Wall_Tin6_1_4",
+            "pos": [
+                3648.0166015625,
+                318.3485412597656,
+                8980.7216796875
+            ],
+            "ypr": [
+                130.36749267578126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_Wall_Tin6_1_4",
+            "pos": [
+                3650.64306640625,
+                318.3619079589844,
+                8983.7998046875
+            ],
+            "ypr": [
+                130.36749267578126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_Wall_Tin6_1_4",
+            "pos": [
+                3653.218505859375,
+                318.37432861328127,
+                8986.9326171875
+            ],
+            "ypr": [
+                130.36749267578126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "bldr_Wall_Tin6_1_4",
+            "pos": [
+                3655.894775390625,
+                318.3827209472656,
+                8990.009765625
+            ],
+            "ypr": [
+                130.36749267578126,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_foldingbed_open",
+            "pos": [
+                3648.06396484375,
+                317.49713134765627,
+                8979.1669921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Roadblock_WoodenCrate",
+            "pos": [
+                3649.13818359375,
+                317.791015625,
+                8977.2890625
+            ],
+            "ypr": [
+                125.798583984375,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999979734420776,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_Couch_Beige84x213x75_DZ",
+            "pos": [
+                3651.989990234375,
+                317.50567626953127,
+                8984.615234375
+            ],
+            "ypr": [
+                -54.64605712890625,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Misc_Bench3",
+            "pos": [
+                3653.3623046875,
+                317.7062683105469,
+                8974.6630859375
+            ],
+            "ypr": [
+                -0.25792309641838076,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999983310699463,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Slum_Roof6",
+            "pos": [
+                3691.19189453125,
+                312.5086669921875,
+                8910.8994140625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3693.260498046875,
+                310.87103271484377,
+                8912.255859375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3687.25,
+                310.8357238769531,
+                8918.1904296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3653.649658203125,
+                310.9859924316406,
+                8973.1552734375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3653.146484375,
+                311.2168884277344,
+                8981.1591796875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3647.689208984375,
+                311.0329895019531,
+                8968.8408203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3669.1591796875,
+                311.3745422363281,
+                8997.955078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Slum_Roof4",
+            "pos": [
+                3823.765380859375,
+                311.888427734375,
+                8829.8232421875
+            ],
+            "ypr": [
+                -154.8192138671875,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Lunapark_Carousel_Swan",
+            "pos": [
+                3791.025390625,
+                315.0106201171875,
+                8961.3037109375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Lunapark_Shooting_Gallery",
+            "pos": [
+                3790.319091796875,
+                315.85858154296877,
+                8977.9853515625
+            ],
+            "ypr": [
+                -148.8623046875,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Lunapark_Ferris_wheel",
+            "pos": [
+                3816.440673828125,
+                318.8320007324219,
+                8969.8642578125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Lunapark_Carousel_Small",
+            "pos": [
+                3824.689453125,
+                312.7775573730469,
+                8978.6376953125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3799.068603515625,
+                310.85369873046877,
+                8963.62890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Terrain_Livonia_GrassPatch",
+            "pos": [
+                3784.307861328125,
+                310.828125,
+                8960.044921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_sed01_aban2_police",
+            "pos": [
+                3771.68603515625,
+                312.3478698730469,
+                9005.822265625
+            ],
+            "ypr": [
+                -165.19981384277345,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_firetruck",
+            "pos": [
+                3773.144287109375,
+                311.5131530761719,
+                9015.017578125
+            ],
+            "ypr": [
+                -78.9830551147461,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wreck_hb01_aban1_police",
+            "pos": [
+                3773.841552734375,
+                312.5924072265625,
+                9010.4814453125
+            ],
+            "ypr": [
+                172.78927612304688,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Furniture_hospital_transport_bed",
+            "pos": [
+                3767.652099609375,
+                311.531494140625,
+                9016.4072265625
+            ],
+            "ypr": [
+                -70.53506469726563,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Slum_House7",
+            "pos": [
+                3867.6298828125,
+                312.5964050292969,
+                8966.05078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_Slum_House2",
+            "pos": [
+                3785.81982421875,
+                312.2591552734375,
+                8908.20703125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        }
+    ]
+}
